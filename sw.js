@@ -1,6 +1,6 @@
 // Service worker: precaches the whole app + bundled data so it opens offline.
-// cd2439742966 is generated as a content hash of precached files (250 files: Arabic + English pack + assets).
-const BUILD = 'cd2439742966';
+// 10a6097afe6b is generated as a content hash of precached files (250 files: Arabic + English pack + assets).
+const BUILD = '10a6097afe6b';
 const CACHE = 'quran-' + BUILD;
 
 self.addEventListener('install', (e) => {
