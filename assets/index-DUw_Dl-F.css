@@ -15,3 +15,10 @@
 .en-line .en-ref{display:inline-block;min-width:54px;margin-right:8px;font-size:12px;font-weight:700;color:var(--green)}
 .en-line .en-text{overflow-wrap:break-word}
 .en-missing .en-text{font-style:italic}
+
+dialog.dash{margin:0 auto 0 0;padding:0;height:100vh;max-height:100vh;height:100dvh;max-height:100dvh;width:min(380px,94vw);border-radius:0;border:0;border-right:2px solid var(--gold)}
+dialog.dash .dhead{border-radius:0}
+dialog.dash .dbody{max-height:calc(100dvh - 60px)}
+.dash-search{position:sticky;top:-14px;background:var(--cream);padding:10px 0 8px;z-index:2}
+.slist.jlist{max-height:220px}
+.tbtn[aria-pressed=true]{background:var(--indigo);color:#fff;border-color:var(--indigo)}
