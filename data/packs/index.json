@@ -1,0 +1,13 @@
+{
+  "packs": [
+    {
+      "id": "en-itani-allah",
+      "lang": "en",
+      "title": "English — Talal Itani (ClearQuran Allah Edition)",
+      "path": "./data/en/itani-allah",
+      "format": "{s, t[]}",
+      "licence": "CC BY-ND 4.0",
+      "attribution": "Translation by Talal Itani, ClearQuran.com"
+    }
+  ]
+}

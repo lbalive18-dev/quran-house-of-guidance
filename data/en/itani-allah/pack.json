@@ -1,0 +1,21 @@
+{
+  "id": "en-itani-allah",
+  "lang": "en",
+  "direction": "ltr",
+  "title": "English translation — ClearQuran (Allah Edition)",
+  "translator": "Talal Itani",
+  "source": "ClearQuran — https://www.clearquran.com/downloads/quran-in-english-clearquran-verse-by-verse-txt-edition-allah.zip",
+  "mirror": "https://quran-json.risanb.com/translations/en-itani-allah/chapters/{1-114}.json (machine-readable mirror, wording verbatim)",
+  "licence": "Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)",
+  "licenceUrl": "https://blog.clearquran.com/download",
+  "attribution": "Translation by Talal Itani, ClearQuran.com",
+  "attributionUrl": "https://ClearQuran.com",
+  "edition": "Allah Edition (uses 'Allah' for the Creator; God Edition also exists, not bundled)",
+  "version": "n/a (rolling); ClearQuran Last Update 9 Oct 2026; snapshot fetched 14 Oct 2026",
+  "permissions": "Free to use, store, convert and distribute, including in commercial projects. No permission required. Keep wording unchanged and credit the source. Holder grants extra permission to reformat/convert/split/combine as long as no words are changed, added or removed.",
+  "format": "One JSON per surah: {s: surahNumber, t: [ayah1..ayahN]} in data/en/itani-allah/{1-114}.json",
+  "totalSurahs": 114,
+  "totalAyahs": 6236,
+  "mapping": "Matched to Arabic by surah number (s) and ayah order (index+1). Validated against data/meta.json counts.",
+  "note": "Text stored verbatim. No AI generation, paraphrase or reconstruction. Bismillah at 1:1 included as 'In the name of Allah, the Gracious, the Merciful.' Surah 9 has 129 ayahs, no opening Bismillah prefix, matching Arabic pack."
+}
